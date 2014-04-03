@@ -1,7 +1,7 @@
 {
     "name": "phonegap-app-testable",
     "description": "Test application for the PhoneGap Developer app.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "homepage": "http://github.com/mwbrooks/phonegap-app-testable",
     "repository": {
         "type": "git",
